@@ -1,2 +1,2 @@
 # tiny-spark
-A tiny docker image to run spark in psudo distributed mode.
+Docker image bootstrap for running spark in psudo distributed mode.
